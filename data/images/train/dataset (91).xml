@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dataset (91).jpg</filename>
+	<path>C:\Users\Prisky\Downloads\MAKANAN\dataset\images\dataset (91).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>67</ymin>
+			<xmax>357</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

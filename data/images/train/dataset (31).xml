@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dataset (31).jpg</filename>
+	<path>C:\Users\Prisky\Downloads\MAKANAN\dataset\images\dataset (31).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nasigoreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>86</ymin>
+			<xmax>357</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

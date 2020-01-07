@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dataset (65).jpg</filename>
+	<path>C:\Users\Prisky\Downloads\MAKANAN\dataset\images\dataset (65).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>67</ymin>
+			<xmax>299</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

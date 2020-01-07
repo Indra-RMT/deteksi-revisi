@@ -1,0 +1,5 @@
+numpy
+tensorflow
+matplotlib
+
+python resize_images.py --raw-dir ./target/Headphone --save-dir ./gambar_baru/Headphone --ext jpg --target-size "(400, 300)"

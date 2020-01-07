@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>dataset (54).jpg</filename>
+	<path>C:\Users\Prisky\Downloads\MAKANAN\dataset\images\dataset (54).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>69</ymin>
+			<xmax>314</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>
